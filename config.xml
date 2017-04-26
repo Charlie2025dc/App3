@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
   
   <widget xmls ="http://www.w3.org/ns/widgets"
     xmlns:gap ="http://phonegap.com/ns/1.0"
 	id ="com.phonegap.example2"
 	version ="1.0.0">
 	
-   <name> App2 Telefonia celular </name>
+   <name> App3 Bibliografía Cbtis 16 </name>
    
     <description>
 	 Aplicación que muestra información de la telefonía celular
